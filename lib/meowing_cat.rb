@@ -10,7 +10,9 @@ attr_accessor:name
 
 end
 
-
+# notes to self make sure you are wrtting everything as required , if asked !! then inculde wasted too much time on this !
+#  create a class for cat 
+# 
 
 
 
