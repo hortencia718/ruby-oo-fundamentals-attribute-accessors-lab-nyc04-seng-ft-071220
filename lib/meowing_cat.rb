@@ -12,7 +12,7 @@ class Cat
 
 end
 
-meow.New = name
+meow.New = :name
 
 
 
