@@ -13,6 +13,9 @@ class Cat
 
 end
 
+meow.New = name
+
+
 
 ## code your solution here. 
 # binding.pry
