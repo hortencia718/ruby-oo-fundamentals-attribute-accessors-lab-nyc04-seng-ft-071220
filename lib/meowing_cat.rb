@@ -1,5 +1,5 @@
 require 'pry'
-
+attr_accessor:name
 class cat 
   
   
