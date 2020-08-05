@@ -2,7 +2,7 @@
 
 attr_accessor:name
 
-class cat 
+class Cat 
 
  def meow
    puts "meow"
